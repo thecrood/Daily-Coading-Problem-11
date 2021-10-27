@@ -1,4 +1,4 @@
-# Daily-Coading-Problem-11
+# Daily-Coding-Problem-11
 
 This problem was asked by Twitter.
 
